@@ -3,4 +3,5 @@ function testAleart(){
     alert("test 1");
     alert("test 2");
 }
-testAleart()
+console.log("hello ji");
+console.log(4+5);
